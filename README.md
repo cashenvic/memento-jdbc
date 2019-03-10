@@ -163,5 +163,4 @@ https://www.boraji.com/jdbc-calling-mysql-stored-procedure-example
 
 https://www.boraji.com/jdbc-callablestatement-resultset-example
 
-```java
-```
+https://examples.javacodegeeks.com/core-java/sql/jdbc-callablestatement-with-oracle-stored-procedure-example-tutorial/
