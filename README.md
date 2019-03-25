@@ -155,6 +155,8 @@ try {
 
 ## Exemples de procedure stockée
 
+http://sdz.tdct.org/sdz/rocedure-stockee.html#Exemples
+
 https://www.journaldev.com/2502/callablestatement-in-java-example `Recommandé`
 
 https://java.developpez.com/faq/jdbc/?page=Les-procedures-stockees-et-fonctions-moins-CallableStatement
